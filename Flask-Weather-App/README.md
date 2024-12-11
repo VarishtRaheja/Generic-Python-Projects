@@ -1,1 +1,1 @@
-A basic falsk weather app which will help filter weather data based on station id/code, year and date. Downloading and runnign the code locally will be needed. Example URL are provided on how to filter data.
+A basic Flask weather app which will help filter weather data based on station id/code, year and date. Downloading and runnign the code locally will be needed. Example URL are provided on how to filter data.
