@@ -1,0 +1,11 @@
+Project Description
+Create a basic console-based banking system where users can:
+
+Create accounts
+
+Deposit money
+
+View balance
+
+Exit the system.
+
